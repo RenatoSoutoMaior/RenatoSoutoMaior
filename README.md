@@ -51,6 +51,7 @@ Tech Lead at DB1 Group • Founder of Bad Coffee Games • Building software and
 
 ## 📫 Connect
 
+- LinkedIn: https://www.linkedin.com/in/renatosoutomaior/
 - Website: https://www.badcoffeegames.com
-- Steam: https://store.steampowered.com/developer/badcoffeegames
-- LinkedIn: linkedin.com/in/renatosoutomaior
+- Steam: [https://store.steampowered.com/developer/badcoffeegames](https://store.steampowered.com/search/?developer=Bad+Coffee+Games&ndl=1)
+- E-mail: renatosoutomaior18@gmail.com
